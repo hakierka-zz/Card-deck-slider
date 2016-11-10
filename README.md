@@ -1,4 +1,4 @@
-# Swipe-Slider
+# Card-deck slider
 
-There is a simply swiping slider making with jQuery and Swiper by Idangero (http://idangero.us/swiper/). 
+There is a simply swiping slider making with jQuery and Card-deck by Brainly. 
 Dedicated for a tablet screen.
